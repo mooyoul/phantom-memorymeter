@@ -1,0 +1,26 @@
+{
+  "name": "phantom-memorymeter",
+  "version": "1.0.0",
+  "description": "Memory Meter for PhantomJS/CasperJS",
+  "main": "phantom-memorymeter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mooyoul/phantom-memorymeter.git"
+  },
+  "keywords": [
+    "phantomjs",
+    "casperjs",
+    "memory",
+    "performance",
+    "system"
+  ],
+  "author": "Moo Yeol, Lee <mooyoul@gmail.com> (Prescott)",
+  "license": "MIT License",
+  "bugs": {
+    "url": "https://github.com/mooyoul/phantom-memorymeter/issues"
+  },
+  "homepage": "https://github.com/mooyoul/phantom-memorymeter"
+}
