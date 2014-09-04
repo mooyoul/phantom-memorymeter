@@ -210,8 +210,8 @@ Meter.getUsedMemoryHumanSize = function (pid, callback) {
 
 
 /**
- * Get Used Memory Size in Human Read Size.
- * Expose 'getUsedMemoryHumanSize'
+ * Convert Size to Human-Read Size.
+ * Expose 'toHumanReadSize'
  *
  * @param {String|Number} size      Size to be converted to Human-Read Size.
  * @return {String} humanSize       Converted Human-Read Size.
